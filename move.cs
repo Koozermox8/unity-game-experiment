@@ -1,3 +1,4 @@
+//class for tile-based movement in personal project
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
